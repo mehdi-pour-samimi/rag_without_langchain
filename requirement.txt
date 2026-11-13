@@ -1,0 +1,6 @@
+chromadb
+openai
+PyPDF2
+python-docx
+sentence-transformers
+gdown
